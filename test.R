@@ -3,5 +3,5 @@ b <- 2
 
 print(a + b)
 
-plot(a,b)
+plot(a,b, col = "red")
 
